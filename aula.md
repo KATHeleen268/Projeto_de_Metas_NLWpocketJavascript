@@ -21,8 +21,42 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 - Processar os dados (manipular, alterar ...)
 - Apresentar os dados
 
+## Escopo e Variávveis
+- Variáveis globais e locais
+- Constantes
+
+## Tipos de dados
+- Strings(textos); "" '' ``
+- Number 2, 2,2
+- Function
+- Boolean: true/false
+
+## Operadores
+- Operadores de atribuição de valor
+- Operadores de concatenação
+
+# anotações
+- Na linguagem de programação cada letra e simbolo importa
+- Sempre que colocar {} significa que está abrindo um novo escopo
+- Concatenação é a junção de uma ou mais strings
+
+## Estrutura de dados
 
 
+## Arrays:
+
+-Uma lista que contém qualquer tipo de dado
 
 
+## Objeto:
+
+-Atributos e métodos
+- Criação e manipulação de objetos
+- Acesso a propriedades de objetos
+
+
+### Function
+- Criar, passar argumento
+- Executar
+- Arrow function / named function
 

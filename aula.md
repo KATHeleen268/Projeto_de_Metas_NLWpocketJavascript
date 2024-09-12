@@ -60,3 +60,12 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 - Executar
 - Arrow function / named function
 
+# Estrutura de repetição 
+- While
+
+# Condicionais
+- Switch
+
+## Módulos em Nod4.js
+- Importação de módulos(require, CommonJS)
+- Biblioteca 'inquirer' para criar prompts interativos

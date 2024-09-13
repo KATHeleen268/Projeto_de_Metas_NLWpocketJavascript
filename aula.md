@@ -33,7 +33,9 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
 ## Operadores
 - Operadores de atribuição de valor
-- Operadores de concatenação
+- Operadores de concatenação +
+- Operadores de comparação: ==,!=, < >, <=, >=
+
 
 # anotações
 - Na linguagem de programação cada letra e simbolo importa
@@ -65,6 +67,7 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 
 # Condicionais
 - Switch
+- If/else
 
 ## Módulos em Nod4.js
 - Importação de módulos(require, CommonJS)

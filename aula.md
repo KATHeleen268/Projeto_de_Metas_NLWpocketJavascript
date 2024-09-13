@@ -69,3 +69,6 @@ Como um lego, você irá utilizar peças para criar algoritmos, ou seja, para re
 ## Módulos em Nod4.js
 - Importação de módulos(require, CommonJS)
 - Biblioteca 'inquirer' para criar prompts interativos
+
+## Programação assíncrona e Promises
+- Uso de funções assíncronas (async/await)
